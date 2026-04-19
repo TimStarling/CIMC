@@ -1,0 +1,15 @@
+2025-01-01 10:00:01 system init
+2025-01-01 10:00:01 rtc config
+2025-01-01 10:00:01 rtc config success to 2025-01-01 10:00:01
+2025-01-01 10:00:01 system hardware test
+2025-01-01 10:00:01 test ok
+2025-01-01 10:00:01 test error: tf card not found 
+2025-01-01 10:00:01 ratio config
+2025-01-01 10:00:01 ratio config success to 10.00
+2025-01-01 10:00:01 limit config
+2025-01-01 10:00:01 limit config success to 12.00
+2025-01-01 10:00:01 sample start - cycle 5s (command)
+2025-01-01 10:00:01 cycle switch to 10s (key press)
+2025-01-01 10:00:01 sample stop (key press)
+2025-01-01 10:00:01 hide data
+2025-01-01 10:00:01 unhide data
